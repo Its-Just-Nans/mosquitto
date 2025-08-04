@@ -14,5 +14,6 @@ Then please check the following list of things we ask for in your pull request:
 - [ ] If you are contributing a bugfix, is your work based off the fixes branch?
 - [ ] Have you added an explanation of what your changes do and why you'd like us to include them?
 - [ ] Have you successfully run `make test` with your changes locally?
+- [ ] Are you merging into the `develop` branch?
 
 -----
